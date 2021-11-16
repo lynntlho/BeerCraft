@@ -4,7 +4,6 @@
 
 # **Crafting the Perfect Beer:** Predicting Beer Ratings with Sentiment Analysis and Clustering
 
----
 
 ## Introduction
 
