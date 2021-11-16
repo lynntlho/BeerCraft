@@ -15,7 +15,6 @@ There are thousands of beers and breweries in the market with different product 
 
 By addressing these questions, beer brewers can use the information gathered to understand market trends and craft beers that suit the palates and tastes of consumers, which will ultimately help to increase sales and profit.
 
----
 
 ## Data Overview
 
@@ -27,7 +26,6 @@ The data used for this project was obtained from BeerAdvocate.com, one of the or
 
 Due to the large size of the files, they are not loaded in a folder here. However, they can be accessed from links provided in the notebooks.
 
----
 
 ## Methodology
 
